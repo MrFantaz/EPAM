@@ -1,0 +1,279 @@
+TRACE	2018-07-13 22:24:28,711	0	run.Main	[main]	Order: 10000 
+Client: 168
+Name: Something
+
+Registration time: 2018-07-13
+Total amount: 8.8$
+TRACE	2018-07-20 22:35:45,696	0	run.Main	[main]	Order: 10000 
+Client: 260
+Name: Something
+
+Registration time: 2018-07-20
+Total amount: 8.8$
+TRACE	2018-07-30 09:11:21,522	0	run.Main	[main]	Order: 10000 
+Client: 644
+Name: Something
+
+Registration time: 2018-07-30
+Total amount: 8.8$
+TRACE	2018-07-30 09:28:09,048	0	run.Main	[main]	Order: 10000 
+Client: 332
+Name: Something
+********************Chrysanthemum 0.9$Chrysanthemum 0.9$********************
+Registration time: 2018-07-30
+Total amount: 8.8$
+TRACE	2018-07-30 09:28:52,212	0	run.Main	[main]	Order: 10000 
+Client: 359
+Name: Something
+********************
+Chrysanthemum 0.9$
+Chrysanthemum 0.9$
+********************
+Registration time: 2018-07-30
+Total amount: 8.8$
+TRACE	2018-07-30 09:42:15,229	0	run.Main	[main]	Order: 10000      
+Client:992        
+Name:  Something  
+----------------------------------
+
+TRACE	2018-07-30 09:42:37,153	0	run.Main	[main]	Order:   10000      
+Client:  206        
+Name:    Something  
+----------------------------------
+
+TRACE	2018-07-30 09:51:01,426	0	run.Main	[main]	Order:   10000      
+Client:  131        
+Name:    Something  
+----------------------------------
+Chrysanthemum    2  0.9$  
+
+TRACE	2018-07-30 09:51:25,718	0	run.Main	[main]	Order:   10000      
+Client:  607        
+Name:    Something  
+----------------------------------
+Chrysanthemum    2      0.9$  
+
+TRACE	2018-07-30 09:51:49,682	0	run.Main	[main]	Order:   10000      
+Client:  968        
+Name:    Something  
+----------------------------------
+Chrysanthemum    2      1.8$  
+
+TRACE	2018-07-30 09:52:03,626	0	run.Main	[main]	Order:   10000      
+Client:  149        
+Name:    Something  
+-------------------------------
+Chrysanthemum    2      1.8$  
+
+TRACE	2018-07-30 09:54:17,804	0	run.Main	[main]	Order:   10000      
+Client:  414        
+Name:    Something  
+-------------------------------
+Chrysanthemum    2      1.8$  
+-------------------------------
+%-6s&n%-6s&n
+TRACE	2018-07-30 09:54:31,376	0	run.Main	[main]	Order:   10000      
+Client:  995        
+Name:    Something  
+-------------------------------
+Chrysanthemum    2      1.8$  
+-------------------------------
+Registration time:      2018-07-30&nTotal amount:           8.8   &n
+TRACE	2018-07-30 09:54:59,345	0	run.Main	[main]	Order:   10000      
+Client:  748        
+Name:    Something  
+-------------------------------
+Chrysanthemum    2      1.8$  
+-------------------------------
+Registration time:      2018-07-30
+Total amount:           8.8   
+
+TRACE	2018-07-30 09:55:18,103	0	run.Main	[main]	Order:   10000      
+Client:  109        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           8.8   
+
+TRACE	2018-07-30 09:59:04,043	0	run.Main	[main]	Order:   10000      
+Client:  742        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            3      3.9000000000000004$
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           14.200000000000001
+
+TRACE	2018-07-30 09:59:04,046	3	run.Main	[main]	Order:   10000      
+Client:  558        
+Name:    Client 558 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+
+TRACE	2018-07-30 09:59:38,802	0	run.Main	[main]	Order:   10000      
+Client:  470        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+
+TRACE	2018-07-30 09:59:38,805	3	run.Main	[main]	Order:   10000      
+Client:  624        
+Name:    Client 624 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+
+TRACE	2018-07-30 10:03:38,601	0	run.Main	[main]	Order:   10000      
+Client:  651        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+
+TRACE	2018-07-30 10:03:38,604	3	run.Main	[main]	Order:   10000      
+Client:  536        
+Name:    Client 536 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+
+TRACE	2018-07-30 10:04:38,038	0	run.Main	[main]	Order:   10000      
+Client:  699        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+*************************
+
+TRACE	2018-07-30 10:04:38,043	5	run.Main	[main]	Order:   10000      
+Client:  353        
+Name:    Client 353 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+*************************
+
+TRACE	2018-07-30 10:04:51,020	0	run.Main	[main]	Order:   10000      
+Client:  888        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+********************************
+
+TRACE	2018-07-30 10:04:51,025	5	run.Main	[main]	Order:   10000      
+Client:  785        
+Name:    Client 785 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+********************************
+
+TRACE	2018-07-30 10:05:00,221	0	run.Main	[main]	Order:   10000      
+Client:  612        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+*********************************
+
+TRACE	2018-07-30 10:05:00,224	3	run.Main	[main]	Order:   10000      
+Client:  879        
+Name:    Client 879 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+*********************************
+
+
+TRACE	2018-07-30 11:26:11,680	0	run.Main	[main]	Order:   10000      
+Client:  744        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+*********************************
+
+
+TRACE	2018-07-30 11:26:11,720	40	run.Main	[main]	Order:   10000      
+Client:  699        
+Name:    Client 699 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+*********************************
+
+Order:   10000      
+Client:  234        
+Name:    Something  
+---------------------------------
+Chrysanthemum    2      1.8$  
+Daisy            2      2.6$  
+Narcisse         1      1.5$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           12.9  
+*********************************
+
+Order:   10000      
+Client:  409        
+Name:    Client 409 
+---------------------------------
+Rose             3      9.0$  
+Poppy            2      4.0$  
+---------------------------------
+Registration time:      2018-07-30
+Total amount:           15.0  
+*********************************
+
