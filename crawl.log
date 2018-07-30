@@ -1,0 +1,21 @@
+ERROR	2018-07-19 02:47:57,499	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:48:58,272	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:49:17,820	0	log.Log4j	[main]	Error: ..\number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:49:55,953	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:50:30,911	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:50:50,535	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+ERROR	2018-07-19 02:52:17,177	0	log.Log4j	[main]	Error: number.txt (Не удается найти указанный файл)
+TRACE	2018-07-19 09:11:06,136	0	log.Log4j	[main]	Max Number: 32
+TRACE	2018-07-19 09:11:07,251	1115	log.Log4j	[main]	Min Number: 0
+TRACE	2018-07-19 09:11:44,384	0	log.Log4j	[main]	Max Number: 32
+TRACE	2018-07-19 09:11:44,384	0	log.Log4j	[main]	Min Number: 1
+TRACE	2018-07-19 10:26:54,235	0	log.Log4j	[main]	Max Number: 0
+TRACE	2018-07-19 10:26:54,251	16	log.Log4j	[main]	Min Number: 0
+TRACE	2018-07-23 09:52:09,139	0	log.Log4j	[main]	Max Number: 231
+TRACE	2018-07-23 09:52:09,139	0	log.Log4j	[main]	Min Number: 3
+TRACE	2018-07-23 10:41:30,639	0	log.Log4j	[main]	Max Number: 2314
+TRACE	2018-07-23 10:41:30,641	2	log.Log4j	[main]	Min Number: 1
+TRACE	2018-07-29 22:30:54,197	0	log.Log4j	[main]	Max Number: 100
+TRACE	2018-07-29 22:30:54,208	11	log.Log4j	[main]	Min Number: 1
+TRACE	2018-07-29 22:47:31,315	0	heroku.log.Log4j	[main]	Max Number: 843
+TRACE	2018-07-29 22:47:31,327	12	heroku.log.Log4j	[main]	Min Number: 5
