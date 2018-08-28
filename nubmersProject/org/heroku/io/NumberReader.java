@@ -28,7 +28,7 @@ public class NumberReader implements NumberOpportunities {
         try {
             FileReader fileReader = new FileReader(file);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
-            BufferedReader bufferedReader1 = new BufferedReader(fileReader);
+            bufferedReader.lines().filter(d -> d.matches("\\d+")).map();
             String[] d = new String[1];
             int i = 0;
             while ((d[i] = bufferedReader.readLine()) != null) {
